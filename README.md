@@ -19,19 +19,40 @@ List down the main features of your bot.
 
 You can deploy this bot on Heroku with the following button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/FUCKINGPYRO)
 
 ## Usage
 
 Explain how users can use your bot and its commands.
 
 ### Commands
+Available Commands:**
 
-- `/start` - Check if the bot is alive.
-- `/fuck [chat_id]` - Ban all non-admin members in a chat.
-- `/mute` - Mute a user in the chat.
-- `/unmute` - Unmute a user in the chat.
-- ...
+    `/start` - Check if the bot is alive.
+    `/fuck [chat_id]` - Ban all non-admin members in a chat.
+    `/unban [chat_id] [user_id]` - Unban a user in a chat.
+    `/broadcast [message]` - Broadcast a message to all chats.
+    `/pin` - Pin a replied message in the chat.
+    `/leave` - Leave the current chat.
+    `/pm [user_id] [message]` - Send a personal message to a user.
+    `/deleteall` - Delete all messages in the current chat.
+    `/sticker` - Send a predefined sticker.
+    `/chatinfo` - Get information about the chat.
+    `/echo [message]` - Echo a message.
+    `/reply [message]` - Reply to a message.
+    `/mute` - Mute a user in the chat.
+    `/unmute` - Unmute a user in the chat.
+    `/kick` - Kick a user from the chat.
+    `/userinfo` - Get user info (reply to a message from the user).
+    `/deletebot` - Delete bot's messages from the chat.
+    `/admins` - Get the list of chat admins.
+    `/profilepic` - Get user's profile picture (reply to a message from the user).
+    `/setbio [bio]` - Set the bot's bio.
+    `/forward [chat_id]` - Forward a replied message to another chat.
+    `/chats` - Get the list of all chats.
+    `/getuserid [username]` - Get user's ID from username.
+    `/help` - Show this help message.
+- 
 
 ### Caution
 
@@ -49,7 +70,7 @@ If you'd like to contribute to the development of this bot, you can follow these
 
 ## Support
 
-If you encounter any issues or have questions, you can join our support group: [Your Support Group](https://t.me/your_support_group).
+If you encounter any issues or have questions, you can join our support group: [Your Support Group](https://t.me/BWANDARLOK).
 
 ## Credits
 
