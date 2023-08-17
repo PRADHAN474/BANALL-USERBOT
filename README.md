@@ -11,31 +11,31 @@ Briefly describe what your bot does, its features, and why users might find it u
 
 Check if the bot is alive: This feature responds with a message confirming that the bot is active and operational.
 
-Ban all non-admin members in a chat: This feature can ban all members in a chat except for the administrators, helping to manage the chat effectively.
+😂Ban all non-admin members in a chat: This feature can ban all members in a chat except for the administrators, helping to manage the chat effectively.
 
-Mute a user in the chat: You can use this feature to mute a user in the chat, preventing them from sending messages.
+🌚Mute a user in the chat: You can use this feature to mute a user in the chat, preventing them from sending messages.
 
-Unmute a user in the chat: If a user is muted, this feature can unmute them so that they can send messages again.
+😳Unmute a user in the chat: If a user is muted, this feature can unmute them so that they can send messages again.
 
-Kick a user from the chat: This feature allows you to remove a user from the chat entirely.
+🤣Kick a user from the chat: This feature allows you to remove a user from the chat entirely.
 
-Get user info: When you reply to a message from a user, this feature provides you with information about that user, such as their name, ID, and username.
+🥳Get user info: When you reply to a message from a user, this feature provides you with information about that user, such as their name, ID, and username.
 
-Delete bot's messages from the chat: With this feature, the bot can delete its own messages from the chat history.
+😒Delete bot's messages from the chat: With this feature, the bot can delete its own messages from the chat history.
 
-Get the list of chat admins: This feature generates a list of all the administrators in the current chat.
+😎Get the list of chat admins: This feature generates a list of all the administrators in the current chat.
 
-Get user's profile picture: If you reply to a message from a user, this feature displays their profile picture.
+💘Get user's profile picture: If you reply to a message from a user, this feature displays their profile picture.
 
-Set the bot's bio: Use this feature to update the bot's profile bio.
+✨Set the bot's bio: Use this feature to update the bot's profile bio.
 
-Forward messages to another chat: If you reply to a message, you can use this feature to forward that message to another chat.
+😁Forward messages to another chat: If you reply to a message, you can use this feature to forward that message to another chat.
 
-Get the list of all chats: This feature provides a list of all the chats the bot is part of.
+😍Get the list of all chats: This feature provides a list of all the chats the bot is part of.
 
-Get user's ID from username: By providing a username, this feature helps you find the ID of a user.
+😗Get user's ID from username: By providing a username, this feature helps you find the ID of a user.
 
-Help command: This feature displays a list of all available commands and how to use them.
+😄Help command: This feature displays a list of all available commands and how to use them.
 
 ## Deployment
 
