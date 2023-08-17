@@ -4,7 +4,7 @@ This is a Pyrogram bot that allows certain users to manage chats and users.
 
 ## Deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/banallpyro)
 
 ## Support Group
 
