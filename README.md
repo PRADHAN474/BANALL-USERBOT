@@ -1,7 +1,7 @@
 # <img src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg" width="30"> ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourbotrepo.svg?style=social)](https://github.com/PRADHAN474/FUCKINGPYRO)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourbotrepo.svg?style=social)](https://github.com/PRADHAN474/FUCKINGPYRO/forks)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourbotrepo.svg?style=social)](https://github.com/PRADHAN474/BANALL-USERBOT)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourbotrepo.svg?style=social)](https://github.com/PRADHAN474/BANALL-USERBOT/forks)
 
 ## About
 
@@ -41,7 +41,7 @@ Check if the bot is alive: This feature responds with a message confirming that 
 
 You can deploy this bot on Heroku with the following button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/FUCKINGPYRO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/BANALL-USERBOT)
 
 ## Usage
 
