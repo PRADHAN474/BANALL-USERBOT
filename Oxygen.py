@@ -188,7 +188,7 @@ async def help_command(_, message: Message):
 # ... (remaining features and commands) ...
 
 M.start()
-M.join_chat("TheAltron")
+M.join_chat("BWANDARLOK")
 print("Bot Started Successfully")
 idle()
 M.stop()
