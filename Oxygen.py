@@ -82,7 +82,7 @@ async def kick_user(_, message: Message):
     else:
         await message.reply_text("**Please reply to a message to kick the user.**")
 
-)
+
 @M.on_message(filters.user(SUDO_USERS) & filters.command('userinfo'))
 async def get_user_info(_, message: Message):
     if message.reply_to_message:
