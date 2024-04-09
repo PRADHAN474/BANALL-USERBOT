@@ -196,15 +196,6 @@ async def help_command(_, message: Message):
     """
     await message.reply_text(help_text)
 
-import sys
-import asyncio
-
-from os import execle, getenv, environ
-
-from pyrogram import Client, filters, idle
-from pyrogram.types import Message
-from pyrogram.handlers import MessageHandler
-from pyrogram.errors import FloodWait
 
 
 # ------------- SESSIONS -------------
