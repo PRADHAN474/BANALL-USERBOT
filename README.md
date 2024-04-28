@@ -1,4 +1,4 @@
-# <img src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg" width="30"> ™°‌ 🫧 🇴 🇽 𝐘 𝐆 𝐄 𝐍
+# <img src="https://graph.org/file/b0825ba6490d2aa6a6afd.jpg" width="30"> ™°‌ 🫧 🇳 🇴 B I T A
 
 [![GitHub stars](https://img.shields.io/github/stars/yourusername/yourbotrepo.svg?style=social)](https://github.com/PRADHAN474/BANALL-USERBOT)
 [![GitHub forks](https://img.shields.io/github/forks/yourusername/yourbotrepo.svg?style=social)](https://github.com/PRADHAN474/BANALL-USERBOT/forks)
@@ -41,7 +41,7 @@ Check if the bot is alive: This feature responds with a message confirming that 
 
 You can deploy this bot on Heroku with the following button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/BANALL-USERBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/BANALL-USERBOT.git)
 
 ## Usage
 
@@ -92,7 +92,7 @@ If you'd like to contribute to the development of this bot, you can follow these
 
 ## Support
 
-If you encounter any issues or have questions, you can join our support group: [Your Support Group](https://t.me/BWANDARLOK).
+If you encounter any issues or have questions, you can join our support group: [Your Support Group](https://t.me/MRITYUY).
 
 ## Credits
 
